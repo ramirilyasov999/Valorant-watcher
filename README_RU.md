@@ -122,7 +122,7 @@ const browserScreenshot = false;
 
 ## Поддержка
  - Keybase - [https://keybase.io/d3v_](https://keybase.io/d3v_)
- - Discor - [https://discord.gg/s8AH4aZ](https://discord.gg/s8AH4aZ)
+ - Discord - [https://discord.gg/s8AH4aZ](https://discord.gg/s8AH4aZ)
 
 ## Дисклеймер
 Этот проект был создан только в образовательных целях.
